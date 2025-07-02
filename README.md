@@ -111,3 +111,5 @@ This class is responsible for:
 
 ---
 
+submit: LMS Design Document
+
